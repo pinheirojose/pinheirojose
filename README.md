@@ -66,8 +66,8 @@ jose@github
 -----------
 OS......: Coffee-driven Linux
 Shell...: zsh (with 400 aliases, uses 3)
-DE......: VS Code, dark theme, always
-Uptime..: TODO years in tech
+DE......: VS Code | Cursor, dark theme, always
+Uptime..: 10+ years in tech
 CPU.....: 1 brain @ 0.4 GHz (thermal throttled)
 Memory..: 8 KB used / variable
 Disk....: 98% node_modules
@@ -123,8 +123,8 @@ usage: reach-jose [OPTIONS]
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/----linkedin-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](TODO_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/----email-say_hi-00FF41?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:TODO_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/----linkedin-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/jose-pinheiro/)
+[![Email](https://img.shields.io/badge/----email-say_hi-00FF41?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:jbernardopinheiro@gmail.com)
 [![Website](https://img.shields.io/badge/----website-personal_page-8B949E?style=for-the-badge&logo=firefoxbrowser&logoColor=white&labelColor=0d1117)](https://github.com/pinheirojose/personal-page)
 
 </div>
