@@ -50,7 +50,7 @@ lrwxr-xr-x  jose  staff     0  B  Sep  7 21:16  free-time -> /dev/null
 
 ---
 
-### `$ neofetch`
+### `$ mysystem`
 
 <table>
 <tr>
@@ -84,8 +84,8 @@ Errors..: yes
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=pinheirojose&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=C9D1D9&dates=8B949E" alt="streak" />
-
+<!-- <img src="https://streak-stats.demolab.com?user=pinheirojose&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=C9D1D9&dates=8B949E" alt="streak" />
+ -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pinheirojose&theme=github_dark" alt="repos per language" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pinheirojose&theme=github_dark" alt="most commit language" />
 
