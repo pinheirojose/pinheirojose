@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00FF41&center=true&vCenter=true&width=620&height=60&lines=%24+whoami;jose+pinheiro+%E2%80%94+builds+things+that+mostly+work;%24+sudo+make+me+a+sandwich;Permission+denied.;%24+git+commit+-m+%22final+FINAL+v3+real%22" alt="$ whoami" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00FF41&center=true&vCenter=true&width=620&height=60&lines=%24+whoami;jose+pinheiro+%E2%80%94+builds+things;%24+sudo+make+me+a+toast;Permission+denied.;%24+git+commit+-m+%22final+FINAL+v3+real%22" alt="$ whoami" />
 
 </div>
 
