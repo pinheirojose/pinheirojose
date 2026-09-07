@@ -123,9 +123,9 @@ usage: reach-jose [OPTIONS]
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/--linkedin-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](TODO_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/--email-say_hi-00FF41?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:TODO_EMAIL)
-[![Website](https://img.shields.io/badge/--website-personal_page-8B949E?style=for-the-badge&logo=firefoxbrowser&logoColor=white&labelColor=0d1117)](https://github.com/pinheirojose/personal-page)
+[![LinkedIn](https://img.shields.io/badge/----linkedin-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](TODO_LINKEDIN_URL)
+[![Email](https://img.shields.io/badge/----email-say_hi-00FF41?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:TODO_EMAIL)
+[![Website](https://img.shields.io/badge/----website-personal_page-8B949E?style=for-the-badge&logo=firefoxbrowser&logoColor=white&labelColor=0d1117)](https://github.com/pinheirojose/personal-page)
 
 </div>
 
