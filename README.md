@@ -56,7 +56,7 @@ lrwxr-xr-x  jose  staff     0  B  Sep  7 21:16  free-time -> /dev/null
 <tr>
 <td valign="middle">
 
-<img src="https://skillicons.dev/icons?i=java,python,ts,js,html,css,git,github,idea,vscode&perline=5" alt="stack" />
+<img src="https://skillicons.dev/icons?i=java,python,ts,js,html,css,git,github,gitlab,apple,vscode,eclipse,docker,maven,postgres&perline=5" alt="stack" />
 
 </td>
 <td valign="middle">
